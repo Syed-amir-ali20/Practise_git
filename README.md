@@ -1,2 +1,3 @@
-# Practicing Git 
-### Now the dataset is about heart risk. There are many symptoms which can help to find the disease severity and occurence.
+# Practicing Git
+### This project is about predicting Heart disease based on its symptoms, gender and age. There are symptoms like Chest_Pain, Shortness_of_Breath, Fatigue, Palpitations, Dizziness, Swelling, Pain_Arms_Jaws_Back, Cold_Sweats_Nausea, High_BP, High_Cholesterol, Diabetes, Smoking, Obesity, Sedentary_Lifestyle, Family_History, Chronic_Stress, Gender, Age, and Chest_Pain_noisy. The target feature is Heart_disease_risk.
+<p> This is the project of Predicting Heart Disease Risk based on symptoms, age and gender.<p>
